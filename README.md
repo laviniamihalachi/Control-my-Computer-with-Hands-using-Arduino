@@ -9,3 +9,6 @@
      -connecting wires
      
 Voi atasa aici un link de unde m-am inspirat: https://circuitdigest.com/microcontroller-projects/control-your-computer-with-hand-gestures. Insa voi incerca sa fac mai mult decat atat, daca ma voi descurca.     
+  
+  
+  Am nevoie de inca un senzor. Unul il am deja in kit. Voi incerca sa fac rost de la colegii mei!
