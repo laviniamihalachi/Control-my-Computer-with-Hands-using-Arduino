@@ -3,7 +3,7 @@
 
 
 
-~Componente necesare~
+~ Componente necesare: ~
      -2x ultrasonic sensor
      -arduino Uno
      -connecting wires
