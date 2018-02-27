@@ -1,9 +1,14 @@
+Python code:
+
+
 import serial #Serial imported for Serial communication
 import time #Required to use delay functions
-import pyautogui
+import pyautogui used for controlling keyboard and mouse
 
-ArduinoSerial = serial.Serial('com4',9600) #Create Serial port object called arduinoSerialData
+ArduinoSerial = serial.Serial('com4',9600) #Create Serial port object called arduinoSerial
 time.sleep(2) #wait for 2 seconds for the communication to get established
+
+//Here is my code for opening my movie
 
 pyautogui.moveTo(184, 337, 2)
 pyautogui.click(button='right')
@@ -35,3 +40,4 @@ while 1:
         pyautogui.typewrite(['down'], 0.2)
 
     incoming = "";
+
